@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "df-to-gsheets-382502",
+  "private_key_id": "23da3fd6e33481872b089c0eda369c40e3c38e1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDqI5Lb6TYVL8O\nUMsjCKBePKjae+ocXz2Qe2DUleAu2p7/7KkCFC2UBwZLpD2CGLjQ7dY6ACQEKtGk\nL1m4BqmOftO0nl3Y+YeJSagELTMKXhdGZ1K6xVoy9TngD0d4yOgYgbXhcWecLD6M\nydsu9Cra11blEvSIe5GqP5xnBaJNYKEcVO6xWPQWBZhSaVT6Ztdo04kDC7+4W8Vt\nMmXupl4G9Xa2B5fMqZStDKEcc3H1nUn5CUBJmnw23E90E4JAqgKYQgyJR4zHgz9V\nN73to9DItFZ38pOfLbvQhkoshBNnf72Zx0wPkN1pRpaChOqGYNyauYGS3SwSTDQ6\n5hGgVuRDAgMBAAECggEAJ8BgIJ1vLXCSXJM3okeHZX4HhFQ2rUsAVBFtC+PjZ0GN\nmkt3zu9Qj0maEtYslPj226PmqWQL7TjR3PytysC3xDaqRoECainQSqlHVInmW83g\nBrLJUR71g3LlLkuMZtLSrN/1lvcWaNloX+xG9tQuvMWRZvsh6XTJlIBWA2xWnEeR\ndQlATEIjNRT9mBiWMpZJB4KH0AMhZmaH41YkDCyBH/iAJ0kGNtIwHd+1cVWOZ20M\nTon3JmExXoKGJsIqsl8dz9VSpdOG4GEDNFT9KpClsDObM7h/qccO3SNKL4UiZEa4\nOeE1sYZDJiZ44PH1n/bXGsMcpVcRFRZBerlG47RxoQKBgQDuVuJs6Xre3ZeU7gsq\nzdqpKRMOOxmdHzBB6OB5BLDkmIBego96Cc1W+FiKRdE2b0S+3b9Oi/pjv1kk0Tjs\n48fDUy+1eXGHxrqqG1ShwfzH8eqn51nRNDoUyK38eIcRqVidVw5hGziEJlgpbazc\nNqP0d2Jw+3wSru5ZSOK58aj38wKBgQDSKAvK/DZ1Nrvn4JsHra6pOaph2meBLqM7\nMIfZJKCaZUsox0JoP1MUsdeTO42lYsmZl5A0JGc/cc3eJeA6LkNlEehSMdge9edL\nqL45YlEbUYr+9qgJfhtN5KNssyLdiBEVNpAWy71e4wmD/cZ9v9aceG6g6l259uJy\n+BzORXdGcQKBgA7Ft9cESadSmLiUYIDQrYLaluHE6/t/GWCcbH1TuxsQELTK5tWr\nkdyYG/TGCweSsfIakGbv6h8QlxffF+Ym4BTNLSHUWyMNQDiW5RH5kg9agS7S+hAr\naoYrQg1p8wU3N9TYtn1yUHhwX/qBX7tub48RbzqNe800pnVGPTdFMTHdAoGAY5Vk\nWTCAYbSo/+y3qcDMZhYUPcAvkdBWuwJ5LRUlIWRkZBNfzWRMax8GpxbuPPN90lE2\nnO6vGipEQkMyaH9poigFLYW/ApTFoF16nliPVGGkesLIx47BQ3zXT/fmypDif2nW\nh2bN+nudE7WabBYOjSCoU4obFbb+gTo+9COIrJECgYEAh8sL1sBOxn0nug1s3kD6\ngn/beGcXGmP6yv6hzhrECb9oMur34nXvvx16eT2fM11FUg+jyKIdbI4vikTC5LXv\nCShUxUdDVPc3RFIl/8ncfoY6O4AnXzxQNRQTc9tsoUD6GYgec4lRoapvnDu9GDut\nj3GX3cNeWqeNg8kKgB3xQwQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "arseniikorolwork@df-to-gsheets-382502.iam.gserviceaccount.com",
+  "client_id": "115730119349331138358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arseniikorolwork%40df-to-gsheets-382502.iam.gserviceaccount.com"
+}
